@@ -8,7 +8,6 @@ https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-dat
 ### Files in Repository
 
 The dataset includes the following files:
-=========================================
 
 README.md
 
